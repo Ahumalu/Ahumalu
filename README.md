@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Luis Ahumada
 
-<!--
-**Ahumalu/Ahumalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingeniero Civil Industrial | 💻 Estudiante de Bootcamp Python  
+📍 Viña del Mar, Chile  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- Experiencia en control de gestión y análisis de indicadores.  
+- En proceso de reconversión hacia el área tecnológica.  
+- Actualmente desarrollando proyectos en Python y desarrollo web con HTML, CSS y Bootstrap.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos destacados
+- [Proyecto Portafolio](https://github.com/Ahumalu/proyecto)  
+- Próximamente: OnlyFlans (Django)  
+
+## 📫 Contacto
+- GitHub: [Ahumalu](https://github.com/Ahumalu)  
+- LinkedIn: [Luis Ahumada](https://www.linkedin.com/in/luis-armando-ahumada-barrera-4176a785/)  
+
+
